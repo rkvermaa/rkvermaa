@@ -1,7 +1,16 @@
-<h1 align="center">Hi 👋, I'm Ravi Kumar verma</h1>
-<h3 align="center">A data scientist on a mission to unlock the power of data and turn it into game-changing insights.</h3>
+<h1 align="left">Hi 👋, I'm Ravi Kumar verma</h1>
+<h3 align="left">About Me</h3>
+<p aligh="left">As a data science professional, I offer a unique combination of expertise and experience that sets me apart from the rest. With a passion for teaching and a deep knowledge of machine learning and data science, I'm the perfect candidate for your next project.
 
-<img align="right" alt="coding" width="400" src="https://github.com/rkverma87/rkverma87/blob/main/dsgif.gif">
+My background includes years of experience working with large datasets, utilizing cutting-edge technologies and tools to derive insights and solutions for complex problems. My ability to communicate these findings to stakeholders in a clear and concise manner ensures that everyone is on the same page and working towards the same goals.
+
+I understand the importance of delivering quality work on time and within budget. With a proven track record of meeting and exceeding project expectations, I pride myself on delivering exceptional results while maintaining open and effective communication with my clients.
+
+Most importantly, I'm passionate about sharing my knowledge and expertise with others. Whether through one-on-one mentorship or in a classroom setting, I'm dedicated to helping others learn and grow in the field of data science.
+
+If you are interested in Data Science and looking to improve your skills, be sure to check out my repositories and contanct me to learn more about how I can help take your project to next level.</p>
+
+<img align="right" alt="coding" width="350" src="https://github.com/rkverma87/rkverma87/blob/main/dsgif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkverma87&label=Profile%20views&color=0e75b6&style=flat" alt="rkverma87" /> </p>
 
