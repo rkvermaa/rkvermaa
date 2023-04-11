@@ -21,8 +21,6 @@ If you are interested in Data Science and looking to improve your skills, be sur
 
 - 👯 I’m looking to collaborate on **possibility of evolving AI**
 
-- 🤝 I’m looking for help with **career transition to data Scientist**
-
 - 👨‍💻 All of my projects are available at [https://github.com/rkverma87](https://github.com/rkverma87)
 
 - 📝 I regularly write articles on [https://rkverma.substack.com/](https://rkverma.substack.com/)
