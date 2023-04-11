@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ravi Kumar verma</h1>
 <h3 align="center">A data scientist on a mission to unlock the power of data and turn it into game-changing insights.</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsagaratechnology.medium.com%2F5-important-reasons-why-you-should-use-python-7d8b4d80ea8b&psig=AOvVaw1ooqki8OEiEvBSu_vT7vo9&ust=1681291028274000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPjFpKW_of4CFQAAAAAdAAAAABAx">
+<img align="right" alt="coding" width="400" src="https://github.com/rkverma87/rkverma87/blob/main/dsgif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkverma87&label=Profile%20views&color=0e75b6&style=flat" alt="rkverma87" /> </p>
 
