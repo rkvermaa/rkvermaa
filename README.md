@@ -1,5 +1,5 @@
 <img align="center" alt="coding" width="1200" height="400" src="https://github.com/rkverma87/rkverma87/blob/main/banner.gif">
-<h1 align="left">Hi 👋, I'm Ravi Kumar verma</h1>
+<h1 align="left">Hi 👋, I'm Ravi Kumar Verma</h1>
 <h3 align="left">About Me</h3>
 <p aligh="left">As a data science professional, I offer a unique combination of expertise and experience that sets me apart from the rest. With a passion for teaching and a deep knowledge of machine learning and data science, I'm the perfect candidate for your next project.
 
